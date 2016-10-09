@@ -10,3 +10,4 @@ java.lang.NullPointerException
 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:576)
 	at dalvik.system.NativeStart.main(Native Method)
 
+add string
